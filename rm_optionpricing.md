@@ -1,4 +1,4 @@
-RM: Option Pricing
+Option Pricing
 ================
 Eubin Lim
 Feb 12th, 2021
