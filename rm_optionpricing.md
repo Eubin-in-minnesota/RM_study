@@ -33,8 +33,8 @@ Feb 12th, 2021
 ![c=S\_0N(d\_1)-Ke^{-rT}N(d\_2)](https://latex.codecogs.com/png.latex?c%3DS_0N%28d_1%29-Ke%5E%7B-rT%7DN%28d_2%29
 "c=S_0N(d_1)-Ke^{-rT}N(d_2)")    
 *Put option:
-![p=Ke^{-rT}N(d\_2)-S\_0N(d\_1)](https://latex.codecogs.com/png.latex?p%3DKe%5E%7B-rT%7DN%28d_2%29-S_0N%28d_1%29
-"p=Ke^{-rT}N(d_2)-S_0N(d_1)")    
+![p=Ke^{-rT}N(-d\_2)-S\_0N(-d\_1)](https://latex.codecogs.com/png.latex?p%3DKe%5E%7B-rT%7DN%28d_2%29-S_0N%28d_1%29
+"p=Ke^{-rT}N(-d_2)-S_0N(-d_1)")    
 where
 ![d\_1=\\frac{\\ln(S\_0/K)+(r+\\sigma^2/2)T}{\\sigma\\sqrt{T}}](https://latex.codecogs.com/png.latex?d_1%3D%5Cfrac%7B%5Cln%28S_0%2FK%29%2B%28r%2B%5Csigma%5E2%2F2%29T%7D%7B%5Csigma%5Csqrt%7BT%7D%7D
 "d_1=\\frac{\\ln(S_0/K)+(r+\\sigma^2/2)T}{\\sigma\\sqrt{T}}")
